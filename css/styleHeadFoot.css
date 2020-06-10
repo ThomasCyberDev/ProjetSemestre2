@@ -244,7 +244,8 @@ width:30%;
 margin-top:20px;
 }
 #contact{
-margin-top:26px;
+  margin-top:22px;
+  display:inline-flex;
 }
 #figcontact{
 color: black;

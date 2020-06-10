@@ -685,16 +685,10 @@ nav > ul > li{
   }
 
 
-
   #contact{
-
-
-
-	  margin-top:26px;
-
-
-
-  }
+	margin-top:22px;
+	display:inline-flex;
+}
 
 
 
